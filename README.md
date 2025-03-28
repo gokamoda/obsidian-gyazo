@@ -1,6 +1,10 @@
 # Gyazo Extension for Obsidian
 This is a plugin for [Obsidian](https://obsidian.md) that saves pasted images to [Gyazo](https://gyazo.com/).
 
+> **Note:** This plugin requires an internet connection to upload images to Gyazo. (Images will be saved as local files when offline.)
+
+> **Note:** This plugin requires an Gyazo account.
+
 ## Usage
 1. Copy an image to the clipboard.
 2. Paste the image into Obsidian note as you normally would.
