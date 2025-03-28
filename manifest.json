@@ -1,0 +1,10 @@
+{
+	"id": "gyazo",
+	"name": "Gyazo",
+	"minAppVersion": "1.8.0",
+	"description": "Save pasted image to gyazo.",
+	"author": "Go Kamoda",
+	"authorUrl": "https://github.com/gokamoda",
+	"isDesktopOnly": false,
+	"version": "1.0.0"
+}
