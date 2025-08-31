@@ -9,7 +9,7 @@ This is a plugin for [Obsidian](https://obsidian.md) that saves pasted images to
 1. Copy an image to the clipboard.
 2. Paste the image into Obsidian note as you normally would.
 3. The image will be uploaded to Gyazo and will be embedded using html `<img>` tag.
-   - If offline, the image will be saved as a local file.
+   - If offline (or offline mode is on), the image will be saved as a local file.
 
 ## Settings
 - Image width: The `width` attribute of the `<img>` tag.
