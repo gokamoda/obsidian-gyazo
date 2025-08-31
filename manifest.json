@@ -1,6 +1,6 @@
 {
 	"id": "gyazo-htmltagged",
-	"name": "Gyazo",
+	"name": "Gyazo HTML Tagged",
 	"minAppVersion": "1.8.0",
 	"description": "Save pasted image to gyazo.",
 	"author": "Go Kamoda",
